@@ -74,4 +74,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasbirdfn&show_icons=true&locale=en&layout=compact" alt="hasbirdfn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasbirdfn&show_icons=true&locale=en" alt="hasbirdfn" /></p>
